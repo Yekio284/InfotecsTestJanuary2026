@@ -1,2 +1,3 @@
 # InfotecsTestJanuary2026
-Test task for C++ internship in Infotecs on January 2026
+Use "make" command to build project.
+To launch app from the root of project use "./build/app <filename> <default importance>"
